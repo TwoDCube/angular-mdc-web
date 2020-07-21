@@ -51,7 +51,7 @@
     "@types/run-sequence": "0.0.30",
     "babel-loader": "^8.0.6",
     "babel-plugin-istanbul": "^5.2.0",
-    "codecov": "^3.5.0",
+    "codecov": "^3.7.1",
     "codelyzer": "^5.1.0",
     "cpx": "^1.5.0",
     "cz-conventional-changelog": "^3.0.2",
